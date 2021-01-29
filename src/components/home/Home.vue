@@ -46,7 +46,7 @@ export default {
 };
 </script>
 
-<style >
+<style > 
 .stats {
         display: flex;
         justify-content: space-between;
