@@ -19,7 +19,7 @@
       />
     </div>
   </div>
-</template>
+</template> 
 
 <script>
 import PageTitle from "../template/PageTitle";
